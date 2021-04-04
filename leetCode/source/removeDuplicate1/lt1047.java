@@ -1,4 +1,4 @@
-//1047. Remove All Adjacent Duplicates In String
+package removeDuplicate1;//1047. Remove All Adjacent Duplicates In String
 // 계속 돌려서 인접한 두 문자열이 중복되었다면 이를 지운다.
 
 import java.util.Scanner;

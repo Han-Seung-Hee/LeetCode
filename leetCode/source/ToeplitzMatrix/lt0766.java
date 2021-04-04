@@ -1,7 +1,6 @@
-// 766. toeplitz matrix
+package ToeplitzMatrix;// 766. toeplitz matrix
 
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Scanner;
 
 public class lt0766 {

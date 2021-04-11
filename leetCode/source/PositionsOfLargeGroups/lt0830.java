@@ -2,7 +2,7 @@ package PositionsOfLargeGroups;
 //LEETCODE 830. PositionsOfLargeGroups.
 // 연속되는 동일한 문자의 길이가 3이상이면.. LargeGroups임.
 // 해당하는 그룹의 시작값과 끝값을 주면 된다.
-// 값 법위가 inclusive 이므로 배ㅕㅇㄹ 위치 생각하면 인생이 쉬워짐.
+// 값 범위가 inclusive 이므로 배열 위치로 생각하면 이해하기 쉬워짐.
 
 import java.util.ArrayList;
 import java.util.Arrays;

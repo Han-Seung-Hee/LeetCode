@@ -9,6 +9,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 
 public class lt0217 {
+    
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int T = sc.nextInt();
@@ -24,7 +25,7 @@ public class lt0217 {
         int size = nums.length;
         int mainVal = 0;
         int compVal = 0;
-        int startAddr = 0;
+        int startAddr;
 
         for(int i = 0 ; i<size ; i++)
         {

@@ -1,2 +1,0 @@
-SqueakyCleanTest.java
- SqueakyCleanTest
